@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/win10/AndroidStudioProjects/Ordering/app/src/main/res/drawable/badge_bg.xml" value="0.1355" />
+        <entry key="..\:/Users/win10/AndroidStudioProjects/Ordering/app/src/main/res/drawable/car_empty.xml" value="0.1355" />
+        <entry key="..\:/Users/win10/AndroidStudioProjects/Ordering/app/src/main/res/drawable/corner.xml" value="0.1355" />
+        <entry key="..\:/Users/win10/AndroidStudioProjects/Ordering/app/src/main/res/drawable/ic_baseline_comment.xml" value="0.143" />
+        <entry key="..\:/Users/win10/AndroidStudioProjects/Ordering/app/src/main/res/drawable/ic_baseline_local_fire_department_24.xml" value="0.143" />
+        <entry key="..\:/Users/win10/AndroidStudioProjects/Ordering/app/src/main/res/drawable/ic_baseline_people_24.xml" value="0.143" />
+        <entry key="..\:/Users/win10/AndroidStudioProjects/Ordering/app/src/main/res/drawable/ic_baseline_restaurant_24.xml" value="0.143" />
+        <entry key="..\:/Users/win10/AndroidStudioProjects/Ordering/app/src/main/res/drawable/ic_baseline_settings_phone_24.xml" value="0.143" />
+        <entry key="..\:/Users/win10/AndroidStudioProjects/Ordering/app/src/main/res/drawable/ic_baseline_star_24.xml" value="0.143" />
+        <entry key="..\:/Users/win10/AndroidStudioProjects/Ordering/app/src/main/res/drawable/ic_baseline_thumb_up_alt_24.xml" value="0.143" />
+        <entry key="..\:/Users/win10/AndroidStudioProjects/Ordering/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/win10/AndroidStudioProjects/Ordering/app/src/main/res/drawable/item_select.xml" value="0.1355" />
+        <entry key="..\:/Users/win10/AndroidStudioProjects/Ordering/app/src/main/res/drawable/select_listview.xml" value="0.176" />
+        <entry key="..\:/Users/win10/AndroidStudioProjects/Ordering/app/src/main/res/drawable/title.xml" value="0.1" />
+        <entry key="..\:/Users/win10/AndroidStudioProjects/Ordering/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/win10/AndroidStudioProjects/Ordering/app/src/main/res/layout/activity_order.xml" value="0.264" />
+        <entry key="..\:/Users/win10/AndroidStudioProjects/Ordering/app/src/main/res/layout/badge_bg.xml" value="0.2578125" />
+        <entry key="..\:/Users/win10/AndroidStudioProjects/Ordering/app/src/main/res/layout/car.xml" value="0.264" />
+        <entry key="..\:/Users/win10/AndroidStudioProjects/Ordering/app/src/main/res/layout/car_item.xml" value="0.25885416666666666" />
+        <entry key="..\:/Users/win10/AndroidStudioProjects/Ordering/app/src/main/res/layout/car_list.xml" value="0.264" />
+        <entry key="..\:/Users/win10/AndroidStudioProjects/Ordering/app/src/main/res/layout/car_selected.xml" value="0.2" />
+        <entry key="..\:/Users/win10/AndroidStudioProjects/Ordering/app/src/main/res/layout/dialog_clear.xml" value="0.264" />
+        <entry key="..\:/Users/win10/AndroidStudioProjects/Ordering/app/src/main/res/layout/fragment_first.xml" value="0.2596491228070175" />
+        <entry key="..\:/Users/win10/AndroidStudioProjects/Ordering/app/src/main/res/layout/fragment_second.xml" value="0.264" />
+        <entry key="..\:/Users/win10/AndroidStudioProjects/Ordering/app/src/main/res/layout/list_item.xml" value="0.16927083333333334" />
+        <entry key="..\:/Users/win10/AndroidStudioProjects/Ordering/app/src/main/res/layout/listview_item.xml" value="0.20921985815602837" />
+        <entry key="..\:/Users/win10/AndroidStudioProjects/Ordering/app/src/main/res/layout/order_head.xml" value="0.15416666666666667" />
+        <entry key="..\:/Users/win10/AndroidStudioProjects/Ordering/app/src/main/res/layout/order_item.xml" value="0.153125" />
+        <entry key="..\:/Users/win10/AndroidStudioProjects/Ordering/app/src/main/res/layout/payment.xml" value="0.153125" />
+        <entry key="..\:/Users/win10/AndroidStudioProjects/Ordering/app/src/main/res/layout/recyclelist_item.xml" value="0.21700879765395895" />
+        <entry key="..\:/Users/win10/AndroidStudioProjects/Ordering/app/src/main/res/layout/shop_car.xml" value="0.2" />
+        <entry key="..\:/Users/win10/AndroidStudioProjects/Ordering/app/src/main/res/layout/title_bar.xml" value="0.153125" />
+        <entry key="..\:/Users/win10/AndroidStudioProjects/Ordering/app/src/main/res/layout/title_food.xml" value="0.264" />
+        <entry key="..\:/Users/win10/AndroidStudioProjects/Ordering/app/src/main/res/layout/unfinshed_pay.xml" value="0.2" />
+        <entry key="..\:/Users/win10/AndroidStudioProjects/Ordering/app/src/main/res/xml/click.xml" value="0.21829710144927536" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
